@@ -1,0 +1,12 @@
+dependencies:
+- name: rekor
+  repository: https://sigstore.github.io/helm-charts
+  version: 0.3.12
+- name: fulcio
+  repository: https://sigstore.github.io/helm-charts
+  version: 0.4.8
+- name: dex
+  repository: https://charts.dexidp.io
+  version: 0.9.0
+digest: sha256:e077eadef4d4c97b397e3b4bccb47c7a24199e8ef0ba82984d8ca10e9ef3cd93
+generated: "2022-08-20T18:10:41.536617-04:00"
